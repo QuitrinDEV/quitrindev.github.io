@@ -1,0 +1,45 @@
+.dborder {
+    border: 5px solid rgb(231, 231, 231);
+}
+.center-container {
+    text-align: center;
+}
+.ten-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.round {
+    background-color: #19b47b;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0px;
+    border-radius: 8px;
+}
+#twoperclick, #fiveperclick, #tenperclick {
+    margin: 0px;
+    border: 0px;
+    font-size: 15px;
+}
+html {
+    background: white;
+    font-family: 'Mukta', sans-serif;
+}
+h1 {
+    margin: 0px;
+    text-align: center;
+}
+p {
+    margin: 0px;
+}
+button {
+    margin: 5px;
+    background: rgb(21, 170, 133);
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 30px;
+    border: 0px;
+}

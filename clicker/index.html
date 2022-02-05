@@ -1,0 +1,31 @@
+<html>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Mukta&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+    <!--metas-->
+    <meta name="keywords" content="HTML, CSS, JavaScript, click, clicker, score">
+    <meta name="description" content="Quitrindev's simple clicker with upgrades and in-game money!">
+    <meta name="author" content="Quitrindev">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+        <title>QD's Clicker!</title>
+    </head>
+    <body>
+        <div class="center-container">
+            <h1 class="dborder">Clicker!</h1>
+            <button onclick="addScore()", class="round">Click!</button>
+            <h3 class="dborder">Your clicoins:</h3>
+            <p id="scored">0</p>
+            <h3 class="dborder">Upgrades:</h3>
+            <button class="round" id="twoperclick" onclick="upgrade(1)">+2 per click</button><br />
+            <font class="ten-margin">+2 per click. Strength = +20%. <b>Price: 5,500 CC</b>.</font><br />
+            <button class="round" id="fiveperclick" onclick="upgrade(2)">+5 per click</button><br />
+            <font  class="ten-margin">+5 per click. Strength = +50%. <b>Price: 28,000 CC</b>.</font><br />
+            <button class="round" id="tenperclick" onclick="upgrade(3)">+10 per click</button><br />
+            <font  class="ten-margin">+10 per click. Strength = +100%. <b>Price: 60,000 CC</b>.</font>
+        </div>
+        <div class="bootstrap-container">
+            <!--next site upd i think-->
+        </div>
+    </body>
+</html>

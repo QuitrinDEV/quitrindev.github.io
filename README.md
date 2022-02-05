@@ -1,6 +1,5 @@
 # Last Site Updates:
-Added new index (*main.html*)
-Added Script file (*script.js*)
+Added new index (*main.html*)<br>
 Added Style file (*style.css*) 
 
 # This is trash

@@ -1,6 +1,8 @@
-# Last Site Updates:
-Added new index (*main.html*)<br>
-Added Style file (*style.css*) 
+# Files 
+quitrindev.github.io<br>
+|- clicker<br>
+|- index.html<br>
+|- README.md
 
 # This is trash
 No, this is **PERFECT*\* for my skills! Do not hate my noob skills!

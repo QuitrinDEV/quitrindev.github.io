@@ -1,8 +1,11 @@
 # Files 
 quitrindev.github.io<br>
-|- clicker<br>
-|- index.html<br>
-|- README.md
+|- &nbsp;clicker<br>
+|- &nbsp;icons<br>
+|&nbsp;&nbsp;&nbsp;|- \_image.png<br>
+|&nbsp;&nbsp;&nbsp;|- site.png<br>
+|- &nbsp;index.html<br>
+|- &nbsp;README.md
 
 # This is trash
 No, this is **PERFECT*\* for my skills! Do not hate my noob skills!
